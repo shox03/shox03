@@ -8,7 +8,7 @@
 #### NajotTalim student. During day, assisting 
 ### My Medium Channel : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
-<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://medium.com/@yodshox" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
+<!--img alt="Medium" src="https://medium.com/@yodshox" href="https://medium.com/@yodshox" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
