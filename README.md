@@ -10,7 +10,7 @@
 
 <!--img alt="Medium" src="https://medium.com/@yodshox" href="https://medium.com/@yodshox" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Medium](https://medium.com/@yodshox)](https://medium.com/@yodshox) <br>
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
