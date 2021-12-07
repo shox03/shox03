@@ -8,7 +8,7 @@
 
   
 #### NajotTalim student. During day, assisting 
-### My Medium Channel : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
+### My Medium Channel : 🖌  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
 
 [![Medium](https://medium.com/@yodshox)](https://medium.com/@yodshox) <br>
